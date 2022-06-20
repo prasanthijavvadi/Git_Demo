@@ -1,3 +1,7 @@
 This is first text file
 abc
+<<<<<<< HEAD
 Local Repo
+=======
+Remote Repo
+>>>>>>> 499b030db9a81b4617091386a5e620c713d9d623
