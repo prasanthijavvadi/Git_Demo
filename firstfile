@@ -1,3 +1,10 @@
 This is first text file
+<<<<<<< HEAD
+abc123
+testabc
+123456
+
+=======
 abc
-123
+mno
+>>>>>>> 0437f11 (adfdsdf)
